@@ -1,4 +1,4 @@
 <h1>TELA DE CADASTRO</h1>
 <div>
- <img align="center" src="https://imgur.com/FIdYvB2"/>
+ <a href="https://imgbox.com/HUQdHUbe" target="_blank"><img src="https://thumbs2.imgbox.com/f9/f9/HUQdHUbe_t.png" alt="image host"/></a>
 </div>
